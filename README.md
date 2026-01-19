@@ -4,7 +4,7 @@ This project focuses on building an interactive Sales Analysis Dashboard using P
 
 This project focuses on building an interactive Sales Analysis Dashboard using Power BI to help stakeholders understand sales performance and profitability across different business dimensions. 
 
-Objective:- 
+## Project Objective:- 
 
 The main objective was to transform raw sales data into meaningful insights that support data-driven decision-making by analyzing trends, customer behavior, and regional performance. 
 
