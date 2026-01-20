@@ -1,8 +1,5 @@
 # Sales-Analysis-Dashboard
 This project focuses on building an interactive Sales Analysis Dashboard using Power BI to help stakeholders understand sales performance and profitability across different business dimensions.
-<img width="1188" height="662" alt="image" src="https://github.com/user-attachments/assets/ab9a3382-b97a-46c0-be3d-deb4209c9e6c" />
-
-This project focuses on building an interactive Sales Analysis Dashboard using Power BI to help stakeholders understand sales performance and profitability across different business dimensions. 
 
 ## Project Objective:- 
 
@@ -39,6 +36,9 @@ Built key measures such as:
   - Monthly sales trend to identify seasonality
   - State and city-level sales distribution
   - Customer-wise transaction details
+*Screenshot-
+Show the what dashboard look like:
+Example:
 
 *🎯 Outcome*
 
