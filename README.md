@@ -36,9 +36,10 @@ Built key measures such as:
   - Monthly sales trend to identify seasonality
   - State and city-level sales distribution
   - Customer-wise transaction details
+    
 *Screenshot-
 Show the what dashboard look like:
-Example:
+Example: ![Dashboard Preview](https://github.com/satputeshraddha40-tech/Sales-Analysis-Dashboard/blob/main/snapshot.png)
 
 *🎯 Outcome*
 
